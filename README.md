@@ -2,5 +2,7 @@
 
 link cdn:
 
- <script crossorigin src="https://unpkg.com/react@17.0.0/umd/react.production.min.js"><script>
+   <script crossorigin src="https://unpkg.com/react@18.0.0/umd/react.production.min.js"><script>
+      <script crossorigin src="https://unpkg.com/react-dom@18.0.0/umd/react-dom.production.min.js"></script> 
+
  
